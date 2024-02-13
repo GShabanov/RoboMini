@@ -1,0 +1,10 @@
+﻿  music.cpp
+C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(95,37): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(123,29): error C2440: '=': cannot convert from 'const int [21]' to 'int *'
+C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(123,16): message : Conversion loses qualifiers
+C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(185,32): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(189,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(212,57): warning C4244: 'argument': conversion from 'float' to 'long', possible loss of data
+C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(232,56): warning C4244: 'argument': conversion from 'float' to 'long', possible loss of data
+C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(277,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(300,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
