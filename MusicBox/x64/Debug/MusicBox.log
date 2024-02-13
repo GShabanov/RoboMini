@@ -1,9 +1,0 @@
-﻿  music.cpp
-C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(95,37): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
-C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(186,32): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
-C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(190,9): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
-C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(213,57): warning C4244: 'argument': conversion from 'float' to 'long', possible loss of data
-C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(233,56): warning C4244: 'argument': conversion from 'float' to 'long', possible loss of data
-C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(278,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\PROGRAMS\MyWork_Arduino\RoboMini\MusicBox\music.cpp(301,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  MusicBox.vcxproj -> C:\PROGRAMS\MyWork_Arduino\RoboMini\x64\Debug\MusicBox.exe
